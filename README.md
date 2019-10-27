@@ -64,6 +64,8 @@ Removing *DigiJoystick* library will fix this but we lose support for USB joysti
 
 Use this guide : https://digistump.com/wiki/digispark/tutorials/connecting
 
-**Connection: TO ADD LATER** 
+**Connection:** 
+
+Connect Spektrum RC audio jack to Digispark pins : GND and P2.
 
 **Usage: TO ADD LATER**
