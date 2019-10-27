@@ -60,8 +60,10 @@ This will cause inconsistent readings of the moment when the signal rise.
 
 Removing *DigiJoystick* library will fix this but we lose support for USB joystick emulation.
 
-**Connection: TO ADD LATER** 
+**Arduino IDE setup:**
 
-**Programming: TO ADD LATER**
+Use this guide : https://digistump.com/wiki/digispark/tutorials/connecting
+
+**Connection: TO ADD LATER** 
 
 **Usage: TO ADD LATER**
