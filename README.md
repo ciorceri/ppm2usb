@@ -9,7 +9,8 @@ Please consider this project “For Educational Purposes Only” since a proper 
 Since Attiny85 based microcontroller used in this development boards, lacks USB support this is done using the software implementation "DigiJoystick" (also based on V-USB)
 
 **The problem:** emulated joystick is not stable as you can see from the following recording:
-[Emulated Joystick](docs/emulated_joystick.mp4)
+
+![](docs/emulated_joystick.gif)
 
 **PPM introduction**
 
