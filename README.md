@@ -8,7 +8,9 @@ The uController used for this is Digispark development board (http://digistump.c
 Please consider this project “For Educational Purposes Only” since a proper implementation using this uC is not possible because of HW limitations.
 Since Attiny85 based microcontroller used in this development boards, lacks USB support this is done using the software implementation "DigiJoystick" (also based on V-USB)
 
-**The problem:** emulated joystick is not stable as you can see from the following recording:
+**The problem:** emulated joystick is not stable as you can see from the following recording.
+
+(Note that this is a filtered output, without filtering is much worse)
 
 ![](docs/emulated_joystick.gif)
 
